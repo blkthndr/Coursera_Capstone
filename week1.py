@@ -2,46 +2,19 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "## To be used for capstone project 24-Sep-2020"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 2,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import pandas as pd\n",
-    "import numpy as np"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": 3,
-   "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Hello Capstone Project Course!\n"
-     ]
-    }
-   ],
-   "source": [
-    "print(\"Hello Capstone Project Course!\")"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "### to be used for data science capstone\n",
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "\n",
+    "print(\"Hello Capstone Project Course!\")\n",
+    "\n",
+    "##test\n",
+    "\n"
+   ]
   }
  ],
  "metadata": {
